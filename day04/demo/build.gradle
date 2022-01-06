@@ -1,0 +1,10 @@
+plugins {
+    id 'application'
+    id 'javabasiclearning.java-conventions'
+}
+
+
+
+application {
+    mainClass = 'com.softserve.App' 
+}
